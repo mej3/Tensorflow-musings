@@ -1,5 +1,6 @@
 # Tensorflow-musings
-My exploration of the TensorFlow world
+My exploration of the TensorFlow world :)
+
 
 
 This repository contains my exploration of Tensorflow.
